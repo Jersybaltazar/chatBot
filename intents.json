@@ -11,13 +11,8 @@
             "responses":["Me llamo Jersy!" , "MI nombre es JersyBot !!" , "Soy Jersy Bot!"]
         },
         {
-            "tag":"insulto",
-            "patterns":["eres una perra ","golfa de mierda"],
-            "responses":["calla prostituta" , "tu hermana la cachera"]
-        },
-        {
             "tag":"pregunta",
-            "patterns":["Sabes programar","sabes coger"],
+            "patterns":["Sabes programar","sabes cocinar"],
             "responses":["mas o menos" , "de ley" , "preguntale a tu hermana"]
         }
     ]   
