@@ -1,0 +1,25 @@
+{
+    "intents":[
+        {
+            "tag":"saludo",
+            "patterns":["Hola","Buenas","buenos dias", "que tal", "como estas", "saludos"],
+            "responses":["Hola!" , "Buenos dias!" , "Como estas !"]
+        },
+        {
+            "tag":"nombre",
+            "patterns":["Como es tu nombre","como te llamas"],
+            "responses":["Me llamo Jersy!" , "MI nombre es JersyBot !!" , "Soy Jersy Bot!"]
+        },
+        {
+            "tag":"insulto",
+            "patterns":["eres una perra ","golfa de mierda"],
+            "responses":["calla prostituta" , "tu hermana la cachera"]
+        },
+        {
+            "tag":"pregunta",
+            "patterns":["Sabes programar","sabes coger"],
+            "responses":["mas o menos" , "de ley" , "preguntale a tu hermana"]
+        }
+    ]   
+
+}
